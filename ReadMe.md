@@ -4,7 +4,7 @@
 
 ### 使用
 
-在[Release](release)下载安装Apk，启用模块。进入App，修改目标包名即可，kill目标App，再次进入生效。
+在[Release](../..//releases)下载安装Apk，启用模块。进入App，修改目标包名即可，kill目标App，再次进入生效。
 
 ### tips
 
